@@ -34,10 +34,10 @@ There are two types of data structures:
 
   - Linear data structure
   
-   - Static Data Structures
+    - Static Data Structures
      The data structures having a fixed size are known as Static Data Structures. The memory for these data structures is allocated at the compiler time, and their size cannot be changed by the user after being compiled; however, the data stored in them can be altered.
 The **Array** is the best example of the Static Data Structure as they have a fixed size, and its data can be modified later.
-   - Dynamic Data Structures
+    - Dynamic Data Structures
      The data structures having a dynamic size are known as Dynamic Data Structures. The memory of these data structures is allocated at the run time, and their size varies during the run time of the code. Moreover, the user can change the size as well as the data elements stored in these data structures at the run time of the code.
 **Linked Lists**, **Stacks**, and **Queues** are common examples of dynamic data structures
 
