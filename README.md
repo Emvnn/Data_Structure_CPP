@@ -27,8 +27,8 @@ Some examples of Data Structures are Arrays, Linked Lists, Stack, Queue, Trees, 
 
 There are two types of data structures:
 
-- Primitive data structure 
-  The primitive data structures are primitive data types. The int, char, float, double, and      pointer are the primitive data structures that can hold a single value.
+- Primitive data structure
+The primitive data structures are primitive data types. The int, char, float, double, and      pointer are the primitive data structures that can hold a single value.
   
 - Non-primitive data structure
 
