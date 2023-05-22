@@ -47,6 +47,16 @@ The **Array** is the best example of the Static Data Structure as they have a fi
 ![alt text](https://static.javatpoint.com/ds/images/ds-introduction2.png)
 
 
+| **Linear Data Structures**  | **Non Linear Data Structures** |
+| ------------- | ------------- |
+| The data items are arranged in sequential order, one after the other.	The data items are arranged in non-sequential order (hierarchical manner).
+All the items are present on the single layer.	The data items are present at different layers.
+It can be traversed on a single run. That is, if we start from the first element, we can traverse all the elements sequentially in a single pass.	It requires multiple runs. That is, if we start from the first element it might not be possible to traverse all the elements in a single pass.
+The memory utilization is not efficient.	Different structures utilize memory in different efficient ways depending on the need.
+The time complexity increase with the data size.	Time complexity remains the same.
+Example: Arrays, Stack, Queue	Example: Tree, Graph, Map |
+
+
 # 1. Array
 In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. And, the type of elements that can be stored in the form of arrays is determined by the programming language.
 
