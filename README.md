@@ -47,6 +47,39 @@ The **Array** is the best example of the Static Data Structure as they have a fi
 ![alt text](https://static.javatpoint.com/ds/images/ds-introduction2.png)
 
 
+# 1. Array
+In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. And, the type of elements that can be stored in the form of arrays is determined by the programming language.
+
+![alt text](https://www.programiz.com/sites/tutorial2program/files/array_.png)
+
+# 2. Stack
+In stack data structure, elements are stored in the LIFO principle. That is, the last element stored in a stack will be removed first.
+It works just like a pile of plates where the last plate kept on the pile will be removed first.
+
+![alt text](https://www.programiz.com/sites/tutorial2program/files/stack_dsa.png)
+
+# 3. Queue
+Unlike stack, the queue data structure works in the FIFO principle where first element stored in the queue will be removed first.
+It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first.
+
+![alt text](https://www.programiz.com/sites/tutorial2program/files/queue_dsa.png)
+
+# 4. Linked List
+In linked list data structure, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.
+
+![alt text](https://www.programiz.com/sites/tutorial2program/files/linked-list_dsa.png)
+
+# 1. Graph
+In graph data structure, each node is called vertex and each vertex is connected to other vertices through edges.
+
+![alt text](https://www.programiz.com/sites/tutorial2program/files/graph_dsa.png)
+
+# 2. Trees
+Similar to a graph, a tree is also a collection of vertices and edges. However, in tree data structure, there can only be one edge between two vertices.
+
+![alt text](https://www.programiz.com/sites/tutorial2program/files/tree_dsa.png)
+
+
 ```bash
 pip install foobar
 ```
