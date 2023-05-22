@@ -14,6 +14,8 @@ Data Structure is a branch of Computer Science. The study of data structure allo
 
 The data structure name indicates itself that organizing the data in memory. There are many ways of organizing the data in the memory . Array is a collection of memory elements in which data is stored sequentially,i.e., one after another. In other words, we can say that array stores the elements in a continuous manner. This organization of data is done with the help of an array of data structures. There are also other ways to organize the data in memory.
 
+Data Structures are the main part of many Computer Science Algorithms as they allow the programmers to manage the data in an effective way. It plays a crucial role in improving the performance of a program or software, as the main objective of the software is to store and retrieve the user's data as fast as possible.
+
 # The scope of a particular data model depends on two factors:
 
 First, it must be loaded enough into the structure to reflect the definite correlation of the data with a real-world object.
@@ -21,7 +23,7 @@ First, it must be loaded enough into the structure to reflect the definite corre
 Second, the formation should be so straightforward that one can adapt to process the data efficiently whenever necessary.
 Some examples of Data Structures are Arrays, Linked Lists, Stack, Queue, Trees, etc. Data Structures are widely used in almost every aspect of Computer Science, i.e., Compiler Design, Operating Systems, Graphics, Artificial Intelligence, and many more.
 
-"Data Structures are the main part of many Computer Science Algorithms as they allow the programmers to manage the data in an effective way. It plays a crucial role in improving the performance of a program or software, as the main objective of the software is to store and retrieve the user's data as fast as possible."
+
 
 
 
