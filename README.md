@@ -25,5 +25,37 @@ Some examples of Data Structures are Arrays, Linked Lists, Stack, Queue, Trees, 
 
 
 
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+- Reporting a bug
+- Discussing the current state of the code
+- Submitting a fix
+- Proposing new features
+- Becoming a maintainer
+- A quick summary and/or background
+
+
+- Steps to reproduce
+  - Be specific!
+  - Give sample code if you can. 
+- What you expected would happen
+- What actually happens
+- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
 
