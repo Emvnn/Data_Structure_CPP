@@ -27,21 +27,21 @@ Some examples of Data Structures are Arrays, Linked Lists, Stack, Queue, Trees, 
 
 There are two types of data structures:
 
-- Primitive data structure
+- **Primitive data structure**
 The primitive data structures are primitive data types. The int, char, float, double, and      pointer are the primitive data structures that can hold a single value.
   
-- Non-primitive data structure
+- **Non-primitive data structure**
 
-  - Linear data structure
+  - **Linear data structure**
   
-    - Static Data Structures
+    - **Static Data Structures**
      The data structures having a fixed size are known as Static Data Structures. The memory for these data structures is allocated at the compiler time, and their size cannot be changed by the user after being compiled; however, the data stored in them can be altered.
 The **Array** is the best example of the Static Data Structure as they have a fixed size, and its data can be modified later.
-    - Dynamic Data Structures
+    - **Dynamic Data Structures**
      The data structures having a dynamic size are known as Dynamic Data Structures. The memory of these data structures is allocated at the run time, and their size varies during the run time of the code. Moreover, the user can change the size as well as the data elements stored in these data structures at the run time of the code.
 **Linked Lists**, **Stacks**, and **Queues** are common examples of dynamic data structures
 
-  - Non-linear data structure
+  - **Non-linear data structure**
    Non-Linear Data Structures are data structures where the data elements are not arranged in sequential order. Here, the insertion and removal of data are not feasible in a linear manner. There exists a hierarchical relationship between the individual data items. like: **Trees** and **Graphs**
    
 ![alt text](https://static.javatpoint.com/ds/images/ds-introduction2.png)
