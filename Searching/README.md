@@ -7,9 +7,8 @@ Based on the type of search operation, these algorithms are generally classified
 ## 1.Sequential Search:
 In this, the list or array is traversed sequentially and every element is checked. For example: **Linear Search**.
 
-![Github logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230104154936/Linear-Search1.png)
 
-###How Linear Search Works?
+### How Linear Search Works?
 
 The following steps are followed to search for an element k = 1 in the list below.
 
@@ -28,9 +27,8 @@ The following steps are followed to search for an element k = 1 in the list belo
 ## 2.Interval Search:
 These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: **Binary Search**.
 
-![Github logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221121132716/BinarySearch.png)
 
-###How Binary Search Works?
+### How Binary Search Works?
 
 > Binary search can be implemented only on a sorted list of items. If the elements are not sorted already, we need to sort them first.
 
