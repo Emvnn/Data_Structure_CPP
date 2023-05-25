@@ -74,12 +74,7 @@ Let x = 4 be the element to be searched.
 
 
 
-# heading 1
-## heading 2
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
+
 
 **This will be Bold**
 
@@ -101,10 +96,7 @@ Let x = 4 be the element to be searched.
    
    [Github](https://www.github.com)
    
-   ![Github logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-   
-   As Albert Einstein said:
-> Insanity is repeating things and excepting different results.
+ 
 
 \ backslash 
 ` backtick 
