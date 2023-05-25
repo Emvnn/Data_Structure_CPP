@@ -4,9 +4,19 @@ Searching in C++, this is the process of finding a certain data item from a give
 
 Based on the type of search operation, these algorithms are generally classified into two categories:
 
-1.Sequential Search: In this, the list or array is traversed sequentially and every element is checked. For example: **Linear Search**.
+## 1.Sequential Search:
+In this, the list or array is traversed sequentially and every element is checked. For example: **Linear Search**.
 
-2.Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: **Binary Search**.
+![Github logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230104154936/Linear-Search1.png)
+
+Using sequential search, the following procedure is adopted:
+
+
+## 2.Interval Search:
+These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: **Binary Search**.
+
+![Github logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221121132716/BinarySearch.png)
+
 
 
 
