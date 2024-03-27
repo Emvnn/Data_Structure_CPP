@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #The Two Pointer Technique
 
 The Two Pointer Algorithm, as the name suggests, employs two pointers that traverse an array or list simultaneously. These pointers are often used to perform different tasks, such as searching for elements, comparing values, or partitioning data. The key idea is that by moving the pointers in a specific way, you can efficiently address complex problems.
@@ -23,3 +24,6 @@ The Two Pointer Algorithm, as the name suggests, employs two pointers that trave
 
 5. **Trapping Rainwater:** This algorithm is essential for problems related to trapping rainwater in various structures.
 
+=======
+menna
+>>>>>>> ccf384a9fe78f2cef358d849fab1c2e4a78f4b42
